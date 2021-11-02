@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wyatt-holden
-- 👀 I’m interested in C++, Python, Javascript, data structures/algorithms
+- 👀 I’m interested in C++, Python, Javascript, SQL, data structures/algorithms
 - 🌱 I’m currently studying Computer Science @ WSU
 - 💞️ I’m looking to collaborate with a team as an intern.
 - 📫 How to reach me ... wyattj.holden@gmail.com
